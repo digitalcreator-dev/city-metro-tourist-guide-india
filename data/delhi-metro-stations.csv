@@ -1,0 +1,7 @@
+station_id,station_name,city,line_colors,latitude,longitude,is_interchange,tourist_attractions,canonical_url
+DEL-001,Rajiv Chowk,Delhi,"Yellow|Blue",28.6328,77.2195,True,"Connaught Place|Janpath|Central Park",https://cityexplorer.in/delhi-metro
+DEL-002,Kashmere Gate,Delhi,"Red|Yellow|Violet",28.6675,77.2285,True,"Chandni Chowk|Red Fort|ISBT Kashmere Gate",https://cityexplorer.in/delhi-metro
+DEL-003,Hauz Khas,Delhi,"Yellow|Magenta",28.5432,77.2065,True,"Hauz Khas Village|Deer Park|IIT Delhi",https://cityexplorer.in/delhi-metro
+DEL-004,Chandni Chowk,Delhi,"Yellow",28.6578,77.2301,False,"Chandni Chowk Market|Jama Masjid|Gurudwara Sis Ganj Sahib",https://cityexplorer.in/delhi-metro
+DEL-005,Central Secretariat,Delhi,"Yellow|Violet",28.6186,77.2154,True,"India Gate|Rashtrapati Bhavan|National Museum",https://cityexplorer.in/delhi-metro
+DEL-006,Qutab Minar,Delhi,"Yellow",28.5222,77.1851,False,"Qutub Minar|Mehrauli Archaeological Park",https://cityexplorer.in/delhi-metro
