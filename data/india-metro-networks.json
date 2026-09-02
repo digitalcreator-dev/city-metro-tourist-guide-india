@@ -1,0 +1,49 @@
+{
+  "dataset_name": "Indian Metro Transit & Tourist Guide 2026",
+  "maintainer": "CityExplorer Engineering",
+  "official_website": "https://cityexplorer.in",
+  "networks": [
+    {
+      "city": "Delhi NCR",
+      "operator": "Delhi Metro Rail Corporation (DMRC)",
+      "total_stations": 255,
+      "deep_link": "https://cityexplorer.in/delhi-metro"
+    },
+    {
+      "city": "Mumbai",
+      "operator": "Mumbai Metropolitan Region Development Authority (MMRDA)",
+      "total_stations": 31,
+      "deep_link": "https://cityexplorer.in/mumbai-metro"
+    },
+    {
+      "city": "Hyderabad",
+      "operator": "Hyderabad Metro Rail Limited (HMRL)",
+      "total_stations": 57,
+      "deep_link": "https://cityexplorer.in/hyderabad-metro"
+    },
+    {
+      "city": "Bengaluru",
+      "operator": "Bangalore Metro Rail Corporation Limited (BMRCL)",
+      "total_stations": 66,
+      "deep_link": "https://cityexplorer.in/bangalore-metro"
+    },
+    {
+      "city": "Kolkata",
+      "operator": "Kolkata Metro Rail Corporation (KMRC)",
+      "total_stations": 40,
+      "deep_link": "https://cityexplorer.in/kolkata-metro"
+    },
+    {
+      "city": "Chennai",
+      "operator": "Chennai Metro Rail Limited (CMRL)",
+      "total_stations": 41,
+      "deep_link": "https://cityexplorer.in/chennai-metro"
+    },
+    {
+      "city": "Pune",
+      "operator": "Pune Metro Rail Project (MahaMetro)",
+      "total_stations": 30,
+      "deep_link": "https://cityexplorer.in/pune-metro"
+    }
+  ]
+}
