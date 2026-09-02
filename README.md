@@ -57,7 +57,7 @@ Find the raw data files inside the `/data` directory:
 import pandas as pd
 
 # Load open transit dataset
-url = "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/city-metro-tourist-guide-india/main/data/delhi-metro-stations.csv"
+url = "https://raw.githubusercontent.com/digitalcreator-dev/city-metro-tourist-guide-india/main/data/delhi-metro-stations.csv"
 df = pd.read_csv(url)
 
 # Filter all interchange stations
